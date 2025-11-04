@@ -1,0 +1,7 @@
+*.MATLABDriveTag
+*.mp4
+*.blend1
+*.mat
+*.png
+.venv
+venv
